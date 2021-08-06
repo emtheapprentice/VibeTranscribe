@@ -1,0 +1,14 @@
+librosa
+soundfile
+pyaudio
+tkinter
+deepspeech
+numpy
+wave
+webrtcvad
+halo
+scipy
+glob
+sklearn
+pickle
+wget
