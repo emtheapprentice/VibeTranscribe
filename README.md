@@ -1,4 +1,4 @@
-# VibeTranscribe
+# VibeTranscribe 0.1
 ### Video Demo: 
 <https://youtu.be/AFVdVFqdGsg>
 ### Description: 
